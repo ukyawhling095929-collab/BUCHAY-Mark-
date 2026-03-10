@@ -1,0 +1,23 @@
+{
+  "name": "Wholesale Master POS",
+  "short_name": "WholesalePOS",
+  "description": "Professional Wholesale POS System with Dynamic Pricing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/pos-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/pos-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

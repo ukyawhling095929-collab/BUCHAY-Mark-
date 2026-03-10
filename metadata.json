@@ -1,0 +1,5 @@
+{
+  "name": "Wholesale Pro Manager",
+  "description": "A comprehensive wholesale management application featuring dynamic pricing, offline support (PWA), and robust inventory tracking.",
+  "requestFramePermissions": []
+}
